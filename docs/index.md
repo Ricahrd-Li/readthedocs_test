@@ -1,5 +1,6 @@
-# Welcome to MkDocs
+# Hi! Welcome to markdown doc!
 
+### GOOD JOB!
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
