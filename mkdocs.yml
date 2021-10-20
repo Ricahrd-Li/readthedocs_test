@@ -1,5 +1,8 @@
 site_name: My Docs
 
+theme:
+    name: readthedocs
+    
 nav:
 - '菜单名称': '打开的markdown文档.md'
 - 'menu_name': 'mdifle_name.md'
