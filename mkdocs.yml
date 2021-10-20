@@ -1,10 +1,10 @@
 site_name: My Docs
 
 nav:
-	- '菜单名称': '打开的markdown文档.md'
-	- 'menu_name': 'mdifle_name.md'
+- '菜单名称': '打开的markdown文档.md'
+- 'menu_name': 'mdifle_name.md'
 
 nav:
-	- 一级菜单名称:
-		- '二级菜单': '文档名称.md'
-		- '二级菜单': '文档名称.md'
+- 一级菜单名称:
+  - '二级菜单': '文档名称.md'
+  - '二级菜单': '文档名称.md'
